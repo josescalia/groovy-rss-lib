@@ -1,4 +1,8 @@
 groovy-rss-lib
 ==============
+Website:[http://josescalia.net](http://josescalia.net)
 
-The Rss Library created using groovy script
+####Description
+This is just another rss library, but this time using **Groovy Script**.
+
+
